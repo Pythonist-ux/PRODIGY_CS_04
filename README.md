@@ -20,8 +20,9 @@ This is a simple keylogger program written in Python using the `pynput` library.
 2. Press keys on your keyboard. The program will log the keystrokes to a file called keylog.txt in the same directory.
    
 
+![KeyLogger Test](https://github.com/Pythonist-ux/PRODIGY_CS_04/assets/83156291/e2d925cf-91f1-4082-be07-75d62d1658cc)
 
-https://github.com/Pythonist-ux/PRODIGY_CS_04/assets/83156291/76d1dc22-20bd-451f-963a-d8260387fc4b
+
 
 
 
